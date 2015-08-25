@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Helpers.Extension_Methods
+﻿namespace BYC.Extension_Methods
 {
     public static class StringExtensionMethods
     {

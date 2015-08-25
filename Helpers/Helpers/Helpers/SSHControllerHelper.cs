@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Helpers.Models;
+using BYC.Models;
 
-namespace Helpers.Helpers
+namespace BYC.Helpers
 {
    public static class SSHControllerHelper
     {

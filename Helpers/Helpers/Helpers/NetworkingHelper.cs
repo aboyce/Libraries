@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-using Helpers.Extension_Methods;
+using BYC.Extension_Methods;
 
-namespace Helpers.Helpers
+namespace BYC.Helpers
 {
     public static class NetworkingHelper
     {

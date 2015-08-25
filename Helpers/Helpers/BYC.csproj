@@ -7,7 +7,7 @@
     <ProjectGuid>{9B905DE0-A6D9-4660-A56E-2ED5166D2D32}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Helpers</RootNamespace>
+    <RootNamespace>BYC</RootNamespace>
     <AssemblyName>Helpers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

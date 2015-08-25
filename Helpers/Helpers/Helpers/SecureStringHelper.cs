@@ -2,8 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Security;
 
-
-namespace Helpers.Helpers
+namespace BYC.Helpers
 {
     public static class SecureStringHelper
     {
